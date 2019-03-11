@@ -1,3 +1,5 @@
+"use strict";
+
 let rectColor;
 let bgColor;
 let startX;

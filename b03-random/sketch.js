@@ -1,3 +1,5 @@
+"use strict";
+
 function setup() {
     createCanvas(600, 600);
     let rectColor = color(237, 0, 62);

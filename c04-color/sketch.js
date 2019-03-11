@@ -1,3 +1,5 @@
+"use strict";
+
 let bgColor;
 let rowCount;
 let columnCount;

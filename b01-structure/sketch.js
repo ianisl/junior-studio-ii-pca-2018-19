@@ -1,3 +1,5 @@
+"use strict";
+
 function setup() {
     createCanvas(600, 600); // Canvas size
     noStroke(); // No outline stroke

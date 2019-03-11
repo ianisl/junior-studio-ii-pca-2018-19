@@ -1,3 +1,5 @@
+"use strict";
+
 let rectColors; // Notice the plural form: rectColorS
 let bgColor;
 let startX;
